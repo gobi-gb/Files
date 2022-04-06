@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Manojkumar G",
+    "empID": 200101,
+    "skill": "ReactJs",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Male"
+  },
+  {
+    "name": "Vinothini RK",
+    "empID": 200102,
+    "skill": "Dot Net",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Female"
+  },
+  {
+    "name": "Ram Sankar",
+    "empID": 200103,
+    "skill": "Java",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Male"
+  },
+
+  {
+    "name": "Ramya Krish",
+    "empID": 200104,
+    "skill": "Python",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Female"
+  },
+  {
+    "name": "Lucy Victor",
+    "empID": 200105,
+    "skill": "Angular",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Female"
+  },
+  {
+    "name": "David Billa",
+    "empID": 200106,
+    "skill": "ReactJs",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Male"
+  },
+  {
+    "name": "Franklin Sebastin",
+    "empID": 200107,
+    "skill": "Java",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Male"
+  },
+  {
+    "name": "Priya H",
+    "empID": 200108,
+    "skill": "Java",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Female"
+  },
+  {
+    "name": "Ram Laksh",
+    "empID": 200109,
+    "skill": "UI/UX",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Male"
+  },
+  {
+    "name": "Sarojini",
+    "empID": 200110,
+    "skill": "Angular",
+    "project": "CTS Intern",
+    "HCM": "Alex",
+    "gender": "Female"
+  }
+]
